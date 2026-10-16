@@ -8,7 +8,7 @@ description = "Fork of pysml (EDL21 smart meters, Smart Message Language) ported
 license = "MIT"
 version = "0.1.9"
 readme = "README.md"
-authors = [{name = "DeluxeStyle (orig: Andreas Oberritter)"]
+authors = [{name = "DeluxeStyle (orig: Andreas Oberritter)", , email = "deluxestyle@googlemail.com"}]
 requires-python = '>=3.11,<4.0'
 dependencies = ['bitstring (>=5.0.0)', 'serialx (>=1.8.0)', 'aiohttp (>=3.8.4,<4.0.0)']
 
