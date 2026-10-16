@@ -8,14 +8,14 @@ description = "Fork of pysml (EDL21 smart meters, Smart Message Language) ported
 license = "MIT"
 version = "0.1.9"
 readme = "README.md"
-authors = [{name = "Andreas Oberritter", email = "obi@saftware.de"}]
+authors = [{name = "DeluxeStyle (orig: Andreas Oberritter)"]
 requires-python = '>=3.11,<4.0'
 dependencies = ['bitstring (>=5.0.0)', 'serialx (>=1.8.0)', 'aiohttp (>=3.8.4,<4.0.0)']
 
 [project.urls]
-source = "https://codeberg.org/obi/pysml"
-upstream = "https://codeberg.org/obi/pysml"
-issues = "https://codeberg.org/obi/pysml/issues"
+source = "https://github.com/deluxestyle/pysml-bitstring5"
+upstream = "https://github.com/deluxestyle/pysml-bitstring5"
+issues = "https://github.com/deluxestyle/pysml-bitstring5/issues"
 
 [tool.poetry]
 packages = [
