@@ -5,7 +5,7 @@
 
 Python library for EDL21 smart meters using Smart Message Language (SML)
 
-From from https://codeberg.org/obi/pysml with bitstring5 update
+Fork from https://codeberg.org/obi/pysml with bitstring5 update
 
 Can read SML data from physical serial ports, serial-over-tcp or HTTP.
 
